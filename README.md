@@ -13,6 +13,7 @@
 <img align="left" alt="Git" width="80px" style="padding-right:12px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" />
 <img align="left" alt="Github" width="80px" style="padding-right:12px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
 <img align="left" alt="Pandas" width="80px" style="padding-right:12px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" />
+<br><br><br><br><br>
 
 ## Self-made model explanation: 'Project1IMDB'
 ### Pre-processing
