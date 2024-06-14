@@ -1,9 +1,9 @@
 # Comparing self-created model with a generative AI one for predicting IMDB review sentiments
 
 ## Summary of project
-●	A comparison between a self-created single LSTM model made from scratch and an OpenAI LLM to predict the sentiment of an IMDB review as either ‘positive’ or ‘negative’.
-●	The data was pre-processed by first being cleaned (non-meaningful words, html, and non-letters filtered out) to reduce unique variables. Then, it was tokenized and lemmatized before being padded into 2D numeric arrays to be fed into the model. 
-●	The model was trained and tested, and the accuracy was found to be 88.54%, compared to the OpenAI LLM’s accuracy of 90.0% (without prompt engineering).
+- A comparison between a self-created single LSTM model made from scratch and an OpenAI LLM to predict the sentiment of an IMDB review as either ‘positive’ or ‘negative’.
+- The data was pre-processed by first being cleaned (non-meaningful words, html, and non-letters filtered out) to reduce unique variables. Then, it was tokenized and lemmatized before being padded into 2D numeric arrays to be fed into the model.
+- The model was trained and tested, and the accuracy was found to be 88.54%, compared to the OpenAI LLM’s accuracy of 90.0% (without prompt engineering).
 
 ## Features, languages, and tools used
 <img align="left" alt="Python" width="80px" style="padding-right:12px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
